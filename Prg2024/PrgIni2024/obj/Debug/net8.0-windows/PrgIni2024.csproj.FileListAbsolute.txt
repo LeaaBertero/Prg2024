@@ -1,0 +1,17 @@
+C:\Users\rosab\OneDrive\Escritorio\Prg2024\Programacion2024\Prg2024\PrgIni2024\bin\Debug\net8.0-windows\PrgIni2024.exe
+C:\Users\rosab\OneDrive\Escritorio\Prg2024\Programacion2024\Prg2024\PrgIni2024\bin\Debug\net8.0-windows\PrgIni2024.deps.json
+C:\Users\rosab\OneDrive\Escritorio\Prg2024\Programacion2024\Prg2024\PrgIni2024\bin\Debug\net8.0-windows\PrgIni2024.runtimeconfig.json
+C:\Users\rosab\OneDrive\Escritorio\Prg2024\Programacion2024\Prg2024\PrgIni2024\bin\Debug\net8.0-windows\PrgIni2024.dll
+C:\Users\rosab\OneDrive\Escritorio\Prg2024\Programacion2024\Prg2024\PrgIni2024\bin\Debug\net8.0-windows\PrgIni2024.pdb
+C:\Users\rosab\OneDrive\Escritorio\Prg2024\Programacion2024\Prg2024\PrgIni2024\obj\Debug\net8.0-windows\PrgIni2024.PrgIni.resources
+C:\Users\rosab\OneDrive\Escritorio\Prg2024\Programacion2024\Prg2024\PrgIni2024\obj\Debug\net8.0-windows\PrgIni2024.csproj.GenerateResource.cache
+C:\Users\rosab\OneDrive\Escritorio\Prg2024\Programacion2024\Prg2024\PrgIni2024\obj\Debug\net8.0-windows\PrgIni2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosab\OneDrive\Escritorio\Prg2024\Programacion2024\Prg2024\PrgIni2024\obj\Debug\net8.0-windows\PrgIni2024.AssemblyInfoInputs.cache
+C:\Users\rosab\OneDrive\Escritorio\Prg2024\Programacion2024\Prg2024\PrgIni2024\obj\Debug\net8.0-windows\PrgIni2024.AssemblyInfo.cs
+C:\Users\rosab\OneDrive\Escritorio\Prg2024\Programacion2024\Prg2024\PrgIni2024\obj\Debug\net8.0-windows\PrgIni2024.csproj.CoreCompileInputs.cache
+C:\Users\rosab\OneDrive\Escritorio\Prg2024\Programacion2024\Prg2024\PrgIni2024\obj\Debug\net8.0-windows\PrgIni2024.sourcelink.json
+C:\Users\rosab\OneDrive\Escritorio\Prg2024\Programacion2024\Prg2024\PrgIni2024\obj\Debug\net8.0-windows\PrgIni2024.dll
+C:\Users\rosab\OneDrive\Escritorio\Prg2024\Programacion2024\Prg2024\PrgIni2024\obj\Debug\net8.0-windows\refint\PrgIni2024.dll
+C:\Users\rosab\OneDrive\Escritorio\Prg2024\Programacion2024\Prg2024\PrgIni2024\obj\Debug\net8.0-windows\PrgIni2024.pdb
+C:\Users\rosab\OneDrive\Escritorio\Prg2024\Programacion2024\Prg2024\PrgIni2024\obj\Debug\net8.0-windows\PrgIni2024.genruntimeconfig.cache
+C:\Users\rosab\OneDrive\Escritorio\Prg2024\Programacion2024\Prg2024\PrgIni2024\obj\Debug\net8.0-windows\ref\PrgIni2024.dll
