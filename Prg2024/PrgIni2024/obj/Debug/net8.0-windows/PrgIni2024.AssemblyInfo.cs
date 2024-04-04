@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrgIni2024")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2745825cc24cce1d391317c478ca9e5b99bcbc7e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e519fda67931c2bbe7498a0164c9d8517a3d8c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrgIni2024")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrgIni2024")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

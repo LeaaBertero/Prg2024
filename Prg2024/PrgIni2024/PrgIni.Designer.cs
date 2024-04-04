@@ -39,6 +39,7 @@
             label4 = new Label();
             txDocumento = new TextBox();
             label5 = new Label();
+            btFormulario = new Button();
             SuspendLayout();
             // 
             // tSalir
@@ -157,12 +158,27 @@
             label5.TabIndex = 10;
             label5.Text = "Lista de personas cargadas";
             // 
+            // btFormulario
+            // 
+            btFormulario.BackColor = Color.LawnGreen;
+            btFormulario.Cursor = Cursors.Hand;
+            btFormulario.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
+            btFormulario.Location = new Point(170, 293);
+            btFormulario.Name = "btFormulario";
+            btFormulario.Size = new Size(94, 29);
+            btFormulario.TabIndex = 11;
+            btFormulario.Text = "Formulario de prueba";
+            btFormulario.UseVisualStyleBackColor = false;
+            btFormulario.Click += btFormulario_Click;
+            // 
             // PrgIni
             // 
+            AcceptButton = btCargar;
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.LimeGreen;
             ClientSize = new Size(743, 344);
+            Controls.Add(btFormulario);
             Controls.Add(label5);
             Controls.Add(label4);
             Controls.Add(txDocumento);
@@ -194,5 +210,6 @@
         private Label label4;
         private TextBox txDocumento;
         private Label label5;
+        private Button btFormulario;
     }
 }

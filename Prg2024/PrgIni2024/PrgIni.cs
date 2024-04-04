@@ -30,9 +30,12 @@ namespace PrgIni2024
         {
             Persona persona = new Persona();
 
+
             persona.Nombre = TxNombre.Text;
             persona.edad = Convert.ToInt32(Txedad.Text);
             persona.documento = Convert.ToInt64(txDocumento.Text);
+
+
 
             TxNombre.Text = "";
             Txedad.Text = "";
@@ -41,7 +44,12 @@ namespace PrgIni2024
 
             Personas[posicion] = persona;
             posicion = posicion + 1;
+
         }
+
+
+
+
 
         private void btMostrar_Click(object sender, EventArgs e)
         {
@@ -50,11 +58,17 @@ namespace PrgIni2024
                 + "Documento: " + Personas[0].documento + "\r\n" + "\r\n"
                 + "Nombre: " + Personas[1].Nombre + "\r\n"
                 + "Edad: " + Personas[1].edad + " años" + "\r\n"
-                + "Documento: " + Personas[1].documento; 
+                + "Documento: " + Personas[1].documento;
 
 
 
             lbLista.Visible = true;
+        }
+
+        private void btFormulario_Click(object sender, EventArgs e)
+        {
+            Form conversiones = new Conversiones();
+            conversiones.Show();
         }
     }
 }
